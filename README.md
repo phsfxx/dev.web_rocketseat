@@ -12,13 +12,13 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="License" src="h![ttps://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000](.github/Cover.jpg)">
+  <img alt="License" src="./assets/Cover.jpg">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Projeto de Curso." src="![Alt text](.github/Cover.jpg)" width="100%">
+  <img alt="Projeto de Curso." src="./assets/Cover.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
