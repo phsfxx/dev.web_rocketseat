@@ -7,7 +7,7 @@ function toggleMode() {
   if (html.classList.contains("light")) {
     img.setAttribute("src", "assets/avatar.png.light")
   } else {
-    img.setAttribute("src", "assets/FB_IMG_1685137557924.jpg")
+    img.setAttribute("src", "assets/avatar.jpg.dark")
   }
 }
 assets / avatar.png.light
