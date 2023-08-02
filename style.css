@@ -7,7 +7,8 @@
   --text-color: white;
   --bg-url: url(assets/bg-mobile.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5);
-  --surface-color-hover: rgba(0, 0, 0, 0.02);
+  --surface-color-hover: rgba(0, 0, 0, 0.05);
+  --surface-coloor-hover: rgba(0, 0, 0, 0.2);
   --highlight-color: rgba(255, 255, 255, 0.2);
   --switch-bg-url: url(./assets/moon-star.svg);
 }
@@ -143,7 +144,7 @@ footer {
 }
 @media (min-width: 700px) {
   :root {
-    --bg-url: url(./assets/bg-desktop.jpg);
+    --bg-url: url(assets/bg-mobile.jpg);
   }
   .light {
     --bg-url: url(assets/bg.desktop.light.jpg);
